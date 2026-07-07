@@ -1,0 +1,35 @@
+JOB TITLE: Senior Data Analyst
+COMPANY: NovaFintech Inc.
+LOCATION: Remote / San Francisco, CA
+TYPE: Full-time
+
+ABOUT NOVAFINTECH
+NovaFintech is a leading financial technology company dedicated to democratizing access to investment tools. We leverage big data and machine learning to provide personalized financial advice to millions of users.
+
+ROLE OVERVIEW
+We are seeking a skilled Senior Data Analyst to join our Growth Team. In this role, you will be responsible for analyzing user behavior, building predictive models, and creating dashboards that drive strategic decision-making. The ideal candidate has a strong foundation in statistics, proficiency in Python/SQL, and a passion for storytelling with data.
+
+KEY RESPONSIBILITIES
+- Design and maintain scalable data pipelines to support real-time analytics.
+- Perform deep-dive analysis on user acquisition and retention metrics.
+- Develop and deploy machine learning models to predict customer lifetime value (CLV).
+- Create interactive dashboards and reports for stakeholders using Tableau or Power BI.
+- Collaborate with engineering and product teams to define data requirements and A/B test strategies.
+
+QUALIFICATIONS
+- Bachelor’s or Master’s degree in Statistics, Computer Science, Economics, or a related field.
+- 5+ years of experience in data analysis or a related role.
+- Expert-level proficiency in SQL and Python (Pandas, NumPy, Scikit-learn).
+- Strong experience with data visualization tools (Tableau, Power BI, or Looker).
+- Experience with cloud platforms (AWS, GCP, or Azure) and big data technologies (Spark, Snowflake).
+- Excellent communication skills with the ability to translate technical findings for non-technical audiences.
+
+BENEFITS
+- Competitive salary and equity package.
+- Comprehensive health, dental, and vision insurance.
+- 401(k) matching.
+- Flexible work hours and remote-friendly culture.
+- Professional development stipend.
+
+HOW TO APPLY
+Please submit your resume and a cover letter detailing a recent data project you are proud of to careers@novafintech.com.   

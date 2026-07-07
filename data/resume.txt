@@ -1,0 +1,30 @@
+ALEX JORDAN
+San Francisco, CA | (555) 123-4567 | alex.jordan@email.com | linkedin.com/in/alexjordan
+
+PROFESSIONAL SUMMARY
+Results-oriented Senior Data Analyst with 5+ years of experience transforming complex datasets into actionable business strategies. Proficient in Python, SQL, Tableau, and statistical modeling. Proven track record of improving operational efficiency by 20% through data-driven insights.
+
+TECHNICAL SKILLS
+- Languages: Python (Pandas, NumPy, Scikit-learn), SQL, R
+- Visualization: Tableau, Power BI, Matplotlib, Seaborn
+- Databases: PostgreSQL, MySQL, MongoDB, Snowflake
+- Tools: Git, Docker, AWS (S3, Redshift), Jupyter Notebooks
+
+PROFESSIONAL EXPERIENCE
+
+Senior Data Analyst | TechFlow Solutions | Jan 2023 – Present
+- Led a team of 3 analysts to develop predictive models for customer churn, reducing attrition by 15%.
+- Automated weekly reporting pipelines using Python and SQL, saving 20+ hours of manual work per week.
+- Collaborated with product teams to define KPIs and build interactive dashboards in Tableau.
+
+Data Analyst | GreenWave Retail | Jun 2020 – Dec 2022
+- Analyzed sales data across 50+ stores to identify underperforming regions, leading to a targeted marketing campaign that increased revenue by 10%.
+- Optimized inventory management algorithms, reducing overstock costs by $150k annually.
+- Conducted A/B testing on website layouts to improve user conversion rates.
+
+EDUCATION
+Bachelor of Science in Statistics | University of California, Berkeley | 2020
+
+CERTIFICATIONS
+- Google Data Analytics Professional Certificate
+- AWS Certified Data Analytics – Specialty   
