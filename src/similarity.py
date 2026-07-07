@@ -1,7 +1,7 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
-def calculate_imilarity(resume_text:str ,jd_text:str)->float:
+def calculate_similarity(resume_text:str ,jd_text:str)->float:
     vectorizer = TfidfVectorizer()
     tfidf_matrix = vectorizer.fit_transform([resume_text, jd_text])
 
