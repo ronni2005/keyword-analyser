@@ -1,0 +1,20 @@
+python
+typescript
+rust
+sql
+rest
+api
+pytorch
+pandas
+numpy
+docker
+git
+github
+aws
+azure
+machine learning
+deep learning
+tensorflow
+scikit-learn
+linux
+kubernetes
