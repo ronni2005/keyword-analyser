@@ -13,6 +13,7 @@ KEY RESPONSIBILITIES
 - Design and maintain scalable data pipelines to support real-time analytics.
 - Perform deep-dive analysis on user acquisition and retention metrics.
 - Develop and deploy machine learning models to predict customer lifetime value (CLV).
+- Must be good at deep learning and natural language processing
 - Create interactive dashboards and reports for stakeholders using Tableau or Power BI.
 - Collaborate with engineering and product teams to define data requirements and A/B test strategies.
 
@@ -20,6 +21,7 @@ QUALIFICATIONS
 - Bachelor’s or Master’s degree in Statistics, Computer Science, Economics, or a related field.
 - 5+ years of experience in data analysis or a related role.
 - Expert-level proficiency in SQL and Python (Pandas, NumPy, Scikit-learn).
+- Must be good at deep learning and natural language processing
 - Strong experience with data visualization tools (Tableau, Power BI, or Looker).
 - Experience with cloud platforms (AWS, GCP, or Azure) and big data technologies (Spark, Snowflake).
 - Excellent communication skills with the ability to translate technical findings for non-technical audiences.

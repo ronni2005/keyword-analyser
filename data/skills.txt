@@ -18,3 +18,5 @@ tensorflow
 scikit-learn
 linux
 kubernetes
+computer vision
+natural language processing
