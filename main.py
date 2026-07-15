@@ -1,8 +1,10 @@
 from pathlib import Path
+from src import similarity
 from src.parser import read_document
 from src.similarity import calculate_similarity
 from src.preprocess import preprocess_text
 from src.skills import extract_skills, load_skills
+from src.scoring import calculate_skill_score, calculate_final_score
 
 def interpret_score(score:float)->str:
     #->str represents return type of function
@@ -30,6 +32,12 @@ def main():
     missing=jd_skills-resume_skills
 
 
+    similarity = calculate_similarity(resume_text, jd_text)
+    
+    skill_score=calculate_skill_score(matched,jd_skills)
+    
+    final_score=calculate_final_score(similarity,skill_score)
+
     print(f"Resume Skills: {resume_skills}")
     print(f"Job Description Skills: {jd_skills}")
     print("\nMatched Skills:")
@@ -41,10 +49,12 @@ def main():
         print(f"- {skill}")
 
 
-    similarity = calculate_similarity(resume_text, jd_text)
 
     print(f"Resume match score: {similarity*100:.2f}%")
-    print(f"Interpretation: {interpret_score(similarity)}")
+    print(f"\nSimilarity Score : {similarity * 100:.2f}%")
+    print(f"Skill Match Score: {skill_score * 100:.2f}%")
+    print(f"Final Resume Score: {final_score * 100:.2f}%")
+    print(f"Interpretation: {interpret_score(final_score)}")
 
 
 
