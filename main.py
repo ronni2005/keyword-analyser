@@ -1,21 +1,13 @@
 from pathlib import Path
-from src import similarity
 from src.parser import read_document
 from src.similarity import calculate_similarity
 from src.preprocess import preprocess_text
 from src.skills import extract_skills, load_skills
-from src.scoring import calculate_skill_score, calculate_final_score
-
-def interpret_score(score:float)->str:
-    #->str represents return type of function
-    """gives human readable interpretation"""
-    if score>=0.70:
-        return "best match"
-    elif score>=0.50:
-        return "good match"
-    elif score>=0.30:
-        return "poor match"
-    return "very poor match"
+from src.scoring import (
+    calculate_skill_score,
+    calculate_final_score,
+    interpret_score
+)
 
 def main():
     data_path=Path("data")

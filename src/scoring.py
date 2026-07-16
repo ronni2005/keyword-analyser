@@ -1,3 +1,15 @@
+def interpret_score(score:float)->str:
+    #->str represents return type of function
+    """gives human readable interpretation"""
+    if score>=0.70:
+        return "best match"
+    elif score>=0.50:
+        return "good match"
+    elif score>=0.30:
+        return "poor match"
+    return "very poor match"
+
+
 def calculate_skill_score(matched: set[str], jd_skills: set[str]) -> float:
     """
     Calculate the fraction of required job skills
