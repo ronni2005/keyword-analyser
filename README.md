@@ -80,7 +80,7 @@ resume-keyword-analyzer/
 4. TF-IDF and Cosine Similarity calculate textual similarity.
 5. Skill Match Score is calculated based on matched skills.
 6. A weighted Final Resume Score is generated.
-7. The application displays:
+7. The application displays-:
    - Similarity Score
    - Skill Match Score
    - Final Resume Score
